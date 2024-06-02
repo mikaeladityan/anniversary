@@ -16175,7 +16175,7 @@ const ek = () => {
 							y.jsxs("div", {
 								className: "grid grid-cols-3 gap-2",
 								children: [
-									y.jsx("img", { src: "img/9.jpg", alt: "" }),
+									y.jsx("img", { src: "img/14.jpg", alt: "" }),
 									y.jsx("img", { src: "img/8.jpg", alt: "" }),
 									y.jsx("img", { src: "img/10.jpg", alt: "" }),
 								],
